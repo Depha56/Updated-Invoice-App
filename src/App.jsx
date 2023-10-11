@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./App.css";
 import { Link } from 'react-router-dom'
 import Header from './assets/components/Header';
-import {FaPlusCircle} from "react-icons/fa";
+import { FaPlusCircle } from "react-icons/fa";
 import { GoDotFill } from "react-icons/go"
 import { IoIosArrowBack } from "react-icons/io"
 

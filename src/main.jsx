@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
 import {Route, BrowserRouter, Routes} from 'react-router-dom'
-import SingleInvoice from './assets/components/singleInvoice.jsx'
+import SingleInvoice from './assets/components/SingleInvoice.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
